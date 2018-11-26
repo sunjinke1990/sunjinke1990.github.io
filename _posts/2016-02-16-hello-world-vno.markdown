@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello World - Vno
-date: 2016-02-16 15:32:24.000000000 +09:00
+title: Hello World - sunjinke
+date: 2018-02-16 15:32:24.000000000 +09:00
 ---
 
 #### What's this
@@ -11,10 +11,7 @@ date: 2016-02-16 15:32:24.000000000 +09:00
 #### Usage
 
 ```bash
-$ git clone https://github.com/onevcat/vno-jekyll.git your_site
-$ cd your_site
-$ bundler install
-$ bundler exec jekyll serve
+    哈哈哈~~~~~
 ```
 
 Your site with `Vno Jekyll` enabled should be accessible in http://127.0.0.1:4000.
@@ -39,7 +36,7 @@ You could replace the background and avatar image in `assets/images` folder to c
 | sunjinke     | [http://blog.julytang.xyz](http://onevcat.com)     |
 | sunjinke    | [http://qiuqi.li](http://qiuqi.li)                 |
 
-> If you happen to be using this theme, welcome to [send me a pull request](https://github.com/onevcat/vno-jekyll/pulls) to add your site link here. :)
+> If you happen to be using this theme, welcome to [send me a pull request](http://china.sunjinke.online) to add your site link here. :)
 
 #### License
 
